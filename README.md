@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ada Lovelace — pioneira da computação</title>
+  </head>
+  <body>
+    <header>
+      <h1>Mulheres que fizeram história na tecnologia</h1>
+    </header>
+
+    <main>
+      <article>
+        <h2>Ada Lovelace</h2>
+
+        <p>Augusta Ada King, condessa de Lovelace, nasceu em Londres, em 1815. Matemática e escritora inglesa, é frequentemente considerada a primeira programadora da história: suas anotações sobre a Máquina Analítica de Charles Babbage incluíram um algoritmo destinado a calcular números de Bernoulli. A máquina, porém, nunca foi concluída.</p>
+
+        <figure>
+          <img src="attached_assets/generated_images/ada-lovelace-portrait.png" alt="Ilustração artística de Ada Lovelace em traje vitoriano.">
+          <figcaption>Ilustração artística criada para esta página; não é um retrato histórico.</figcaption>
+        </figure>
+
+        <section>
+          <h3>Infância</h3>
+
+          <p>O pai de Ada era o poeta Lord Byron; sua mãe, Annabella Milbanke, tinha interesse por matemática. Os pais se separaram quando Ada ainda era bebê, e Annabella participou de perto de sua educação, incentivando seus estudos de matemática e ciências. Ada também manteve o interesse pela poesia e pela imaginação.</p>
+
+          <p>Aos 12 anos, Ada se encantou pela ideia de voar. Reuniu desenhos e observações sobre uma possível máquina voadora em um projeto que chamou de <em>Flyology</em> (Voologia), combinando sua curiosidade por engenharia com os estudos que fazia.</p>
+
+          <figure>
+            <img src="attached_assets/generated_images/ada-lovelace-child.png" alt="Ilustração artística de Ada Lovelace criança desenhando uma máquina voadora.">
+            <figcaption>Representação artística da infância de Ada; não é uma imagem histórica.</figcaption>
+          </figure>
+        </section>
+
+        <section>
+          <h3>Juventude</h3>
+
+          <p>Em 1833, aos 17 anos, Ada conheceu o matemático e inventor Charles Babbage. Ele lhe mostrou parte de seu trabalho na Máquina Diferencial, um projeto para automatizar cálculos. Ada se interessou pelas possibilidades dessas máquinas e passou a acompanhar as ideias de Babbage.</p>
+
+          <p>Babbage também concebeu a Máquina Analítica, um projeto mais abrangente que previa operações e armazenamento de dados. Embora nunca tenha sido construída por completo, a proposta influenciou as reflexões de Ada sobre o que uma máquina poderia fazer.</p>
+        </section>
+
+        <section>
+          <h3>Vida adulta</h3>
+
+          <p>Em 1835, Ada se casou com William King. Quando ele se tornou conde de Lovelace, ela passou a ser conhecida como condessa de Lovelace. O casal teve três filhos. Mesmo com as responsabilidades familiares e as limitações impostas às mulheres de sua época, Ada continuou estudando matemática e trocando ideias com Babbage.</p>
+
+          <p>Em 1842, o matemático italiano Luigi Federico Menabrea publicou, em francês, um artigo sobre a Máquina Analítica. No ano seguinte, Ada traduziu o texto para o inglês e acrescentou notas próprias, que ficaram mais extensas do que o artigo original.</p>
+
+          <p>Em uma dessas notas, Ada descreveu uma sequência de instruções para calcular números de Bernoulli usando a Máquina Analítica. Esse algoritmo é frequentemente chamado de primeiro programa de computador publicado. Como a máquina não foi concluída, o programa nunca chegou a ser executado.</p>
+
+          <p>Ada também imaginou que uma máquina desse tipo poderia ir além dos cálculos numéricos: se sons, letras ou outras informações fossem representados de forma adequada, poderiam ser manipulados por ela. Essa ideia antecipava possibilidades da computação que só seriam exploradas muito tempo depois.</p>
+
+          <figure>
+            <img src="attached_assets/generated_images/ada-algorithm-notes.png" alt="Ilustração conceitual de anotações matemáticas ao lado de uma Máquina Analítica.">
+            <figcaption>Ilustração conceitual das notas matemáticas e da Máquina Analítica.</figcaption>
+          </figure>
+
+          <p>Ada morreu em 1852, aos 36 anos. Ela não chegou a ver como as ideias sobre máquinas programáveis contribuiriam para a história da computação.</p>
+        </section>
+      </article>
+
+      <nav aria-label="Outras pioneiras da tecnologia">
+        <h2>Conheça outras mulheres que fizeram história na tecnologia</h2>
+        <ul>
+          <li><a href="https://pt.wikipedia.org/wiki/Grace_Hopper" target="_blank" rel="noopener noreferrer">Grace Hopper</a></li>
+          <li><a href="https://pt.wikipedia.org/wiki/Dorothy_Vaughan" target="_blank" rel="noopener noreferrer">Dorothy Vaughan</a></li>
+          <li><a href="https://pt.wikipedia.org/wiki/Margaret_Hamilton_(cientista_da_computa%C3%A7%C3%A3o)" target="_blank" rel="noopener noreferrer">Margaret Hamilton</a></li>
+          <li><a href="https://pt.wikipedia.org/wiki/Katherine_Johnson" target="_blank" rel="noopener noreferrer">Katherine Johnson</a></li>
+        </ul>
+      </nav>
+    </main>
+  </body>
+</html>
